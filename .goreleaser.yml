@@ -74,7 +74,7 @@ nfpms:
     # Your app's maintainer (probably you).
     #
     # Default: inferred from global metadata.
-    maintainer: "Julien Castets <julien.castets@plakar.io>"
+    maintainer: "Gilles Chehade <gilles@plakar.io>"
 
     # Your app's description.
     #
