@@ -74,7 +74,7 @@ nfpms:
       - plakar
 
     # Your app's vendor.
-    vendor: PlakarKorp
+    vendor: brmzkw
 
     # Your app's homepage.
     #
@@ -424,7 +424,7 @@ homebrew_casks:
       # Repository owner.
       #
       # Templates: allowed.
-      owner: PlakarKorp
+      owner: brmzkw
 
       # Repository name.
       #
